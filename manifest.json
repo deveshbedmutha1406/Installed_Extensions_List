@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Extension Name",
+    "version": "1.0",
+    "description": "Description of the extension",
+    "permissions": [
+      "management"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+  }
+  
